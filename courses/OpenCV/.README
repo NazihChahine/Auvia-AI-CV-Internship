@@ -39,6 +39,4 @@ Image Transformations
 
 Geometric transformations (translation, rotation, affine transforms)
 
-Perspective warping and transformations
-
-Image smoothing using filters (Gaussian, median, bilateral)
+Image smoothing using filters (Gaussian, median)
